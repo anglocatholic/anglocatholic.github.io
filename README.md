@@ -5,6 +5,11 @@ nav_order: 1
 description: "This is a repository of all resources related to the Anglo-Catholic tradition."
 permalink: /
 ---
+<head>
+  <link rel="shortcut icon" type="image/png" href="/favicon.png">
+</head>
+
+
 ---
 
 # Welcome to Anglo-Catholic Resources
