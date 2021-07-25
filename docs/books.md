@@ -14,6 +14,7 @@ The Joy of All Creation: An Anglican Meditation on the Place of Mary
 
 ## Michael Ramsey
 [The Anglican Spirit](https://bookshop.org/books/the-anglican-spirit-seabury-classics-9781596280045/9781596280045)
+
 [The Gospel and the Catholic Church](https://bookshop.org/books/the-gospel-and-catholic-church/9781598563894)
 
 ## Christina Rossetti
