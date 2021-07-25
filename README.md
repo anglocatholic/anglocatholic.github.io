@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Home
 nav_order: 1
 description: "This is a repository of all resources related to the Anglo-Catholic tradition."
 permalink: /
