@@ -1,10 +1,8 @@
 ---
 layout: default
-title: History
+title: Articles
 ---
-# History
-[Library of Anglo-Catholic Theology](http://anglicanhistory.org/lact/)
+# Articles
 
-[Project Canterbury](http://anglicanhistory.org/)
-
-[Tracts for the Times](http://anglicanhistory.org/tracts/)
+## A.E.J. Rawlinson
+[Catholicism with Freedom: An Appeal for a New Policy](/pdf/rawlinson1922.pdf)
