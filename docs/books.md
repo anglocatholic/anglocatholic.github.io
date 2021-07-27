@@ -9,6 +9,9 @@ The Joy of All Creation: An Anglican Meditation on the Place of Mary
 ## The Anglican-Roman Catholic International Commission
 [Mary: Grace and Hope in Christ](The Anglican-Roman Catholic International Commission)
 
+## Peter Heylyn
+[The way and manner of the Reformation of the Church of England declared and justified against the clamors and objections of the opposite parties](https://quod.lib.umich.edu/e/eebo/A43559.0001.001?view=toc)
+
 ## E.L. Mascall
 [Christ, the Christian, and the Church](https://bookshop.org/books/christ-the-christian-and-the-church-a-study-of-the-incarnation-and-its-consequences/9781683070191)
 
