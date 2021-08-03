@@ -54,6 +54,9 @@ He Who Is: A Study in Traditional Theism
 ## Geoffrey Rowell
 [The Vision Glorious: Themes and Personalities of the Catholic Revival in Anglicanism](https://bookshop.org/books/the-vision-glorious-themes-and-personalities-of-the-catholic-revival-in-anglicanism/9780198263326)
 
+## Felicia Skene
+[The Ministry of Consolation: A Guide to Confession](https://archive.org/details/ministryconsola00skengoog)
+
 ## Martin L. Smith
 [Reconciliation: Preparing for Confession in the Episcopal Church](https://www.christianbook.com/reconciliation-preparing-confession-the-episcopal-church/martin-smith/9780936384306/pd/384301?event=ESRCN%7CM)
 
