@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Liturgy
+image: /img/twitter.png
 ---
 # Liturgy
 

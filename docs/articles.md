@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Articles
+image: /img/twitter.png
 ---
 # Articles
 

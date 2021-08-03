@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Podcasts
+image: /img/twitter.png
 ---
 # Podcasts
 

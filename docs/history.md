@@ -1,6 +1,7 @@
 ---
 layout: default
 title: History
+image: /img/twitter.png
 ---
 # History
 [Library of Anglo-Catholic Theology](http://anglicanhistory.org/lact/)

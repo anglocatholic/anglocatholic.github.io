@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Books
+image: /img/twitter.png
 ---
 # Books
 
